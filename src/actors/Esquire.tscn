@@ -8,7 +8,7 @@
 [ext_resource path="res://assets/images/characters/normalesquireleftleg.png" type="Texture" id=6]
 
 [sub_resource type="RectangleShape2D" id=1]
-extents = Vector2( 17.3681, 132.368 )
+extents = Vector2( 36, 132.368 )
 
 [node name="Esquire" type="KinematicBody2D"]
 
